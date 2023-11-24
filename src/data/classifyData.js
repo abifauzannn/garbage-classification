@@ -1,6 +1,6 @@
 const classify =
 {
-  title: 'Garbage - Classification',
+  title: 'Klasifikasi Sampah',
   subtitle: 'Klasifikasikan sampah hingga 12 jenis dengan memasukkan gambar dan dapatkan hasil jenis sampah, kategori sampah, serta tingkat kecocokannya',
   buttonUpload: 'Pilih Gambar',
   buttonClassify: 'Klasifikasikan',
