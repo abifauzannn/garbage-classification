@@ -35,7 +35,7 @@ export default function ClassifyResult() {
   }, [image, results, trashTypes]);
 
   return(
-    <div className="w-full border border-dark rounded-lg lg:w-[calc(50%-2rem)]">
+    <div className="w-full border border-dark rounded-lg lg:w-[calc(50%-2rem)] bg-white">
       <div className="border-b border-dark p-3 text-center">
         <h3 className="text-xl text-dark font-semibold lg:text-2xl">
           Hasil Klasifikasi
